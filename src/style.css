@@ -1,0 +1,23 @@
+@import "bulma/css/bulma.min.css";
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+}
+
+.hero {
+  background-color: #0006;
+}
+
+.hero .title {
+  max-width: 900px;
+  margin: auto;
+}
+
+.works-section img {
+  border-radius: 8px;
+}
